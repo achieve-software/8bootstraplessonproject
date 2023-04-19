@@ -13,7 +13,7 @@ Bootstrap Web Page (folder)
 |----images
 ```
 ## Project-gif
-![Bootsrap-Project]( https://raw.githubusercontent.com/achieve-software/gif/main/bs(7)-min.gif)
+![Bootsrap-Project](https://raw.githubusercontent.com/achieve-software/gif/main/boot-min(1).gif)
 ## Project-link
 https://glowing-cucurucho-52cd3f.netlify.app/
 ### At the end of the project, following topics are to be covered;
